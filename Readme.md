@@ -1,7 +1,5 @@
 **Name** : Dhruv Sharma
-
 **Electronics Engineering**
-
 **IIT (BHU) Varanasi**
 
 
